@@ -9,7 +9,7 @@ validation_split = 0.2
 train_dir = "Data/Training/"
 test_dir = "Data/Test/"
 train_refined_dir = "Data/Training_refined/"
-best_model_path = "Model/tl_best_model_22apr.h5"
+best_model_path = "Model/tl_best_model.h5"
 num_trainable_layers = 102
 epochs = 100
 
