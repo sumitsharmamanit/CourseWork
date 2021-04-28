@@ -5,9 +5,9 @@
  
 ### Please download and update dataset to Data folder
 
-training: https://drive.google.com/drive/folders/1ROcB6ncN404pyQy3VFc0yv4a8JZvc3UO?usp=sharing
+training:https://drive.google.com/file/d/1iigemgNK8rOKtsVoZTpYKtF8NshuRz9L/view?usp=sharing
 
-test: https://drive.google.com/drive/folders/1p2HgPpIYqs6UWy2rBIyitXhnaOLVs5rW?usp=sharing
+test: https://drive.google.com/file/d/1p3VRM-CiZoc6ZIJG5mspWK-Rz-xH_v_B/view?usp=sharing
 
 ### Please download and updated saved model to Model folder:
 Saved model can be found at: https://essexuniversity.box.com/s/3z9y4rwzmpuig9mx2vw09nhpup1ilv2b
